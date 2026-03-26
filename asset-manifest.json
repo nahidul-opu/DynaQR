@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DynaQR/static/css/main.bc6cf939.css",
+    "main.js": "/DynaQR/static/js/main.f8c6f44f.js",
+    "index.html": "/DynaQR/index.html",
+    "main.bc6cf939.css.map": "/DynaQR/static/css/main.bc6cf939.css.map",
+    "main.f8c6f44f.js.map": "/DynaQR/static/js/main.f8c6f44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6cf939.css",
+    "static/js/main.f8c6f44f.js"
+  ]
+}
